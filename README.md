@@ -69,9 +69,3 @@
 - 欢迎提交 [Issue](https://github.com/vastxie/99AI/issues) 反馈问题或 Pull Request 共同维护
 - 本项目采用 [Apache 2.0](LICENSE) 开源协议，使用本项目时请保留项目署名和链接
 - 如果觉得项目不错，欢迎 Star ⭐️
-
-### 交流群
-
-添加微信备注「99」进群交流，作者不提供私聊技术咨询，请优先阅读群公告
-
-<img src="https://github.com/vastxie/99AI/assets/24899308/ee20578f-063d-48d8-bff6-85ac3e38fe60" width="200">
